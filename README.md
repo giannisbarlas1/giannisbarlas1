@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**giannisbarlas1/giannisbarlas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there my name is Giannis Barlas 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 i'm currently studying in the field of informatics at ionian university
+- 🌱 I’m currently learning  java,sql and c++
+- 👯 I’m looking to collaborate on java,sql and c++
+- 🤔 I’m looking for help with java,sql and c++
+- 💬 Ask me about anything
+- 📫 How to reach me https://www.facebook.com/profile.php?id=100004550027551
+- 😄 Pronouns he/him
+
+
